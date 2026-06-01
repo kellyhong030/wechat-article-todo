@@ -1,0 +1,19 @@
+# Dependencies
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Task outputs (generated at runtime)
+tasks/
+
+# Environment
+.env
