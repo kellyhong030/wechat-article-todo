@@ -19,7 +19,7 @@ Paste a WeChat article link, get a structured, prioritized todo list — ads fil
 ### Option 1: Install to an existing project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wechat-article-to-todo.git
+git clone https://github.com/kellyhong030/wechat-article-to-todo.git
 cd wechat-article-to-todo
 ./install.sh /path/to/your/project
 ```
@@ -43,7 +43,7 @@ cp tools/extract_from_imagenie.py /your-project/tools/
 ### Option 3: Use directly in this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wechat-article-to-todo.git
+git clone https://github.com/kellyhong030/wechat-article-to-todo.git
 cd wechat-article-to-todo
 # Open with Claude Code — the skill is auto-discovered via .claude/skills/
 claude

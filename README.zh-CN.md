@@ -19,7 +19,7 @@
 ### 安装到现有项目
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wechat-article-to-todo.git
+git clone https://github.com/kellyhong030/wechat-article-to-todo.git
 cd wechat-article-to-todo
 ./install.sh /你的项目路径
 ```
@@ -43,7 +43,7 @@ cp tools/extract_from_imagenie.py /你的项目/tools/
 ### 直接使用
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wechat-article-to-todo.git
+git clone https://github.com/kellyhong030/wechat-article-to-todo.git
 cd wechat-article-to-todo
 claude  # 打开 Claude Code，skill 自动发现
 ```
